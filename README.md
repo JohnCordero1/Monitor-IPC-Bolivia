@@ -1,5 +1,5 @@
 # Monitor-IPC-Bolivia
-El script de R (versión 4.3.3) genera un archivo HTML interactivo para el Índice de Precios al Consumidor (IPC) de Bolivia y sus 12 divisiones de la Clasificación de Consumo Individual por Finalidades (CCIF).
+El script de R (versión 4.3.3) genera un archivo HTML interactivo para el Índice de Precios al Consumidor (IPC) de Bolivia y sus 12 divisiones de la Clasificación de Consumo Individual por Finalidades (CCIF), llamado "monitor_ipc_bolivia.html".
 
 Las librerias requeridas son:
 - readxl 1.4.3
