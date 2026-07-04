@@ -632,7 +632,7 @@ window.addEventListener("resize",()=>{Plotly.Plots.resize("pl-ipc");Plotly.Plots
 # 7. GUARDAR
 # ==============================================================================
 
-archivo <- "monitor_ipc_bolivia.html"
+archivo <- "D:/Usuario/Desktop/Inflación/Inflacion por categoria/index.html"
 writeLines(html, archivo, useBytes = FALSE)
 
 cat(sprintf("  ✔ Archivo generado: %s  (%.0f KB)\n\n", archivo, file.size(archivo)/1024))
